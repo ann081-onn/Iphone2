@@ -14,7 +14,5 @@ public class SmartPhone implements Mp3Player{
 			System.out.println("戻る");
 		}
 	
-		// TODO 自動生成されたコンストラクター・スタブ
-	
 
 }
