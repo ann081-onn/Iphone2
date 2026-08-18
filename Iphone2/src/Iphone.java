@@ -1,8 +1,12 @@
 
 public class Iphone {
 
-	public Iphone() {
-		// TODO 自動生成されたコンストラクター・スタブ
+	public static void main(String[]args) {
+		SmartPhone iphone=new SmartPhone();
+		iphone.play();
+		iphone.stop();
+		iphone.next();
+		iphone.back();
 	}
 
 }
